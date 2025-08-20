@@ -1,0 +1,14 @@
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\ConsoleApp001\ConsoleApp001\bin\Debug\net8.0\ConsoleApp001.exe
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\ConsoleApp001\ConsoleApp001\bin\Debug\net8.0\ConsoleApp001.deps.json
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\ConsoleApp001\ConsoleApp001\bin\Debug\net8.0\ConsoleApp001.runtimeconfig.json
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\ConsoleApp001\ConsoleApp001\bin\Debug\net8.0\ConsoleApp001.dll
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\ConsoleApp001\ConsoleApp001\bin\Debug\net8.0\ConsoleApp001.pdb
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\ConsoleApp001\ConsoleApp001\obj\Debug\net8.0\ConsoleApp001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\ConsoleApp001\ConsoleApp001\obj\Debug\net8.0\ConsoleApp001.AssemblyInfoInputs.cache
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\ConsoleApp001\ConsoleApp001\obj\Debug\net8.0\ConsoleApp001.AssemblyInfo.cs
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\ConsoleApp001\ConsoleApp001\obj\Debug\net8.0\ConsoleApp001.csproj.CoreCompileInputs.cache
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\ConsoleApp001\ConsoleApp001\obj\Debug\net8.0\ConsoleApp001.dll
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\ConsoleApp001\ConsoleApp001\obj\Debug\net8.0\refint\ConsoleApp001.dll
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\ConsoleApp001\ConsoleApp001\obj\Debug\net8.0\ConsoleApp001.pdb
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\ConsoleApp001\ConsoleApp001\obj\Debug\net8.0\ConsoleApp001.genruntimeconfig.cache
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\ConsoleApp001\ConsoleApp001\obj\Debug\net8.0\ref\ConsoleApp001.dll
