@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Rechteck
 {
-    internal class Punkt
+    public class Punkt
     {
         public double X { get; set; }
 
@@ -24,6 +24,11 @@ namespace Rechteck
         {
             X += dx;
             Y += dy;
+        }
+        public override string ToString()
+        {
+            string infos = $"X: {this.X}, Y: {this.Y}";
+            return infos;
         }
     }
 }

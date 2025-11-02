@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rechteck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bb9b7bcf9ca9a469544445eab30521b0c306259")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4b20ebb8704a015a3cac5f0a2902cd4af77c24d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rechteck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rechteck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
