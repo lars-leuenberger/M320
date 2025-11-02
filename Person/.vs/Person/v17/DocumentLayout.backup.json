@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{26F413D7-8D94-410F-A1F2-1215FDF15A91}|Person.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26F413D7-8D94-410F-A1F2-1215FDF15A91}|Person.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F413D7-8D94-410F-A1F2-1215FDF15A91}|Person.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\person\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F413D7-8D94-410F-A1F2-1215FDF15A91}|Person.csproj|solutionrelative:adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F413D7-8D94-410F-A1F2-1215FDF15A91}|Person.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F413D7-8D94-410F-A1F2-1215FDF15A91}|Person.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adresse.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Person\\Adresse.cs",
+              "RelativeDocumentMoniker": "Adresse.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Person\\Adresse.cs",
+              "RelativeToolTip": "Adresse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:49:12.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Person\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Person\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:38:04.571Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Person\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwD0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T05:36:19.708Z",
               "EditorCaption": ""
