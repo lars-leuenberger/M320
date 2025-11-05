@@ -1,0 +1,15 @@
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Wasserfass\bin\Debug\net8.0\Wasserfass.exe
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Wasserfass\bin\Debug\net8.0\Wasserfass.deps.json
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Wasserfass\bin\Debug\net8.0\Wasserfass.runtimeconfig.json
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Wasserfass\bin\Debug\net8.0\Wasserfass.dll
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Wasserfass\bin\Debug\net8.0\Wasserfass.pdb
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Wasserfass\obj\Debug\net8.0\Wasserfass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Wasserfass\obj\Debug\net8.0\Wasserfass.AssemblyInfoInputs.cache
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Wasserfass\obj\Debug\net8.0\Wasserfass.AssemblyInfo.cs
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Wasserfass\obj\Debug\net8.0\Wasserfass.csproj.CoreCompileInputs.cache
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Wasserfass\obj\Debug\net8.0\Wasserfass.sourcelink.json
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Wasserfass\obj\Debug\net8.0\Wasserfass.dll
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Wasserfass\obj\Debug\net8.0\refint\Wasserfass.dll
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Wasserfass\obj\Debug\net8.0\Wasserfass.pdb
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Wasserfass\obj\Debug\net8.0\Wasserfass.genruntimeconfig.cache
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Wasserfass\obj\Debug\net8.0\ref\Wasserfass.dll

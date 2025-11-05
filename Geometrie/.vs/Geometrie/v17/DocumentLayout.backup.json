@@ -1,105 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Geometrie\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8E767823-6C27-4FA6-BE22-23B78B8E62C6}|Geometrie.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\geometrie\\itransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E767823-6C27-4FA6-BE22-23B78B8E62C6}|Geometrie.csproj|solutionrelative:itransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E767823-6C27-4FA6-BE22-23B78B8E62C6}|Geometrie.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\geometrie\\kreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E767823-6C27-4FA6-BE22-23B78B8E62C6}|Geometrie.csproj|solutionrelative:kreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E767823-6C27-4FA6-BE22-23B78B8E62C6}|Geometrie.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\geometrie\\rechteck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E767823-6C27-4FA6-BE22-23B78B8E62C6}|Geometrie.csproj|solutionrelative:rechteck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E767823-6C27-4FA6-BE22-23B78B8E62C6}|Geometrie.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\geometrie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E767823-6C27-4FA6-BE22-23B78B8E62C6}|Geometrie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E767823-6C27-4FA6-BE22-23B78B8E62C6}|Geometrie.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\geometrie\\punkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E767823-6C27-4FA6-BE22-23B78B8E62C6}|Geometrie.csproj|solutionrelative:punkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ITransform.cs",
-              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Geometrie\\ITransform.cs",
-              "RelativeDocumentMoniker": "ITransform.cs",
-              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Geometrie\\ITransform.cs",
-              "RelativeToolTip": "ITransform.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T20:44:49.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Rechteck.cs",
-              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Geometrie\\Rechteck.cs",
-              "RelativeDocumentMoniker": "Rechteck.cs",
-              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Geometrie\\Rechteck.cs",
-              "RelativeToolTip": "Rechteck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T20:33:19.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Kreis.cs",
-              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Geometrie\\Kreis.cs",
-              "RelativeDocumentMoniker": "Kreis.cs",
-              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Geometrie\\Kreis.cs",
-              "RelativeToolTip": "Kreis.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T20:28:08.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Punkt.cs",
-              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Geometrie\\Punkt.cs",
-              "RelativeDocumentMoniker": "Punkt.cs",
-              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Geometrie\\Punkt.cs",
-              "RelativeToolTip": "Punkt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T20:22:44.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Geometrie\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Geometrie\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T15:48:14.656Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
