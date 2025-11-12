@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bruck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5362ca5aada3b626cc619845923c8406b332bb8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17a50833a68b03dc03a2c2c1cef93e2e447cf2ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bruck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bruck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,19 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Wasserfass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66C070A0-DDC4-4B23-A76F-2DB8D00AE1DC}|Wasserfass.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\wasserfass\\calculator0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C070A0-DDC4-4B23-A76F-2DB8D00AE1DC}|Wasserfass.csproj|solutionrelative:calculator0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37F6F659-8615-463F-8507-E581888F6239}|..\\WasserfassTests\\WasserfassTests.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\wasserfasstests\\wasserfasstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37F6F659-8615-463F-8507-E581888F6239}|..\\WasserfassTests\\WasserfassTests.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\wasserfasstests\\calculator0tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66C070A0-DDC4-4B23-A76F-2DB8D00AE1DC}|Wasserfass.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\wasserfass\\wasserfassunderflowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C070A0-DDC4-4B23-A76F-2DB8D00AE1DC}|Wasserfass.csproj|solutionrelative:wasserfassunderflowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C070A0-DDC4-4B23-A76F-2DB8D00AE1DC}|Wasserfass.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\wasserfass\\wasserfassexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C070A0-DDC4-4B23-A76F-2DB8D00AE1DC}|Wasserfass.csproj|solutionrelative:wasserfassexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C070A0-DDC4-4B23-A76F-2DB8D00AE1DC}|Wasserfass.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\wasserfass\\wasserfassbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C070A0-DDC4-4B23-A76F-2DB8D00AE1DC}|Wasserfass.csproj|solutionrelative:wasserfassbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66C070A0-DDC4-4B23-A76F-2DB8D00AE1DC}|Wasserfass.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\wasserfass\\wasserfass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66C070A0-DDC4-4B23-A76F-2DB8D00AE1DC}|Wasserfass.csproj|solutionrelative:wasserfass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C070A0-DDC4-4B23-A76F-2DB8D00AE1DC}|Wasserfass.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\wasserfass\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C070A0-DDC4-4B23-A76F-2DB8D00AE1DC}|Wasserfass.csproj|solutionrelative:icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66C070A0-DDC4-4B23-A76F-2DB8D00AE1DC}|Wasserfass.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\wasserfass\\wasserfassoverflowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C070A0-DDC4-4B23-A76F-2DB8D00AE1DC}|Wasserfass.csproj|solutionrelative:wasserfassoverflowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66C070A0-DDC4-4B23-A76F-2DB8D00AE1DC}|Wasserfass.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\wasserfass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,63 +37,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Calculator0Tests.cs",
-              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\WasserfassTests\\Calculator0Tests.cs",
-              "RelativeDocumentMoniker": "..\\WasserfassTests\\Calculator0Tests.cs",
-              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\WasserfassTests\\Calculator0Tests.cs",
-              "RelativeToolTip": "..\\WasserfassTests\\Calculator0Tests.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Title": "WasserfassUnderflowException.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Wasserfass\\WasserfassUnderflowException.cs",
+              "RelativeDocumentMoniker": "WasserfassUnderflowException.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Wasserfass\\WasserfassUnderflowException.cs",
+              "RelativeToolTip": "WasserfassUnderflowException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T12:43:07.725Z",
+              "WhenOpened": "2025-11-12T13:11:42.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Calculator0.cs",
-              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Wasserfass\\Calculator0.cs",
-              "RelativeDocumentMoniker": "Calculator0.cs",
-              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Wasserfass\\Calculator0.cs",
-              "RelativeToolTip": "Calculator0.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "WasserfassOverflowException.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Wasserfass\\WasserfassOverflowException.cs",
+              "RelativeDocumentMoniker": "WasserfassOverflowException.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Wasserfass\\WasserfassOverflowException.cs",
+              "RelativeToolTip": "WasserfassOverflowException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T12:39:31.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Icalculator.cs",
-              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Wasserfass\\Icalculator.cs",
-              "RelativeDocumentMoniker": "Icalculator.cs",
-              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Wasserfass\\Icalculator.cs",
-              "RelativeToolTip": "Icalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T12:37:31.276Z",
+              "WhenOpened": "2025-11-12T13:10:49.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "WasserfassException.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Wasserfass\\WasserfassException.cs",
+              "RelativeDocumentMoniker": "WasserfassException.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Wasserfass\\WasserfassException.cs",
+              "RelativeToolTip": "WasserfassException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T13:09:59.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WasserfassBackup.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Wasserfass\\WasserfassBackup.cs",
+              "RelativeDocumentMoniker": "WasserfassBackup.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Wasserfass\\WasserfassBackup.cs",
+              "RelativeToolTip": "WasserfassBackup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:58:45.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WasserfassTests.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\WasserfassTests\\WasserfassTests.cs",
+              "RelativeDocumentMoniker": "..\\WasserfassTests\\WasserfassTests.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\WasserfassTests\\WasserfassTests.cs",
+              "RelativeToolTip": "..\\WasserfassTests\\WasserfassTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:53:09.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Wasserfass.cs",
               "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Wasserfass\\Wasserfass.cs",
               "RelativeDocumentMoniker": "Wasserfass.cs",
               "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Wasserfass\\Wasserfass.cs",
               "RelativeToolTip": "Wasserfass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T12:30:42.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Wasserfass\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

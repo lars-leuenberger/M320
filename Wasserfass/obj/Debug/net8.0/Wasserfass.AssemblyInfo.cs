@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wasserfass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2457662ea3dccf4cd1eb11b4d6d2ed6b91309921")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17a50833a68b03dc03a2c2c1cef93e2e447cf2ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wasserfass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wasserfass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
