@@ -1,0 +1,15 @@
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\OO_Samples_026_NumberConverter\OO_Samples_026_NumberConverter\bin\Debug\net8.0\OO_Samples_027_NumberConverter_Base.exe
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\OO_Samples_026_NumberConverter\OO_Samples_026_NumberConverter\bin\Debug\net8.0\OO_Samples_027_NumberConverter_Base.deps.json
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\OO_Samples_026_NumberConverter\OO_Samples_026_NumberConverter\bin\Debug\net8.0\OO_Samples_027_NumberConverter_Base.runtimeconfig.json
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\OO_Samples_026_NumberConverter\OO_Samples_026_NumberConverter\bin\Debug\net8.0\OO_Samples_027_NumberConverter_Base.dll
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\OO_Samples_026_NumberConverter\OO_Samples_026_NumberConverter\bin\Debug\net8.0\OO_Samples_027_NumberConverter_Base.pdb
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\OO_Samples_026_NumberConverter\OO_Samples_026_NumberConverter\obj\Debug\net8.0\OO_Samples_027_NumberConverter_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\OO_Samples_026_NumberConverter\OO_Samples_026_NumberConverter\obj\Debug\net8.0\OO_Samples_027_NumberConverter_Base.AssemblyInfoInputs.cache
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\OO_Samples_026_NumberConverter\OO_Samples_026_NumberConverter\obj\Debug\net8.0\OO_Samples_027_NumberConverter_Base.AssemblyInfo.cs
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\OO_Samples_026_NumberConverter\OO_Samples_026_NumberConverter\obj\Debug\net8.0\OO_Samples_027_NumberConverter_Base.csproj.CoreCompileInputs.cache
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\OO_Samples_026_NumberConverter\OO_Samples_026_NumberConverter\obj\Debug\net8.0\OO_Samples_027_NumberConverter_Base.sourcelink.json
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\OO_Samples_026_NumberConverter\OO_Samples_026_NumberConverter\obj\Debug\net8.0\OO_Samples_027_NumberConverter_Base.dll
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\OO_Samples_026_NumberConverter\OO_Samples_026_NumberConverter\obj\Debug\net8.0\refint\OO_Samples_027_NumberConverter_Base.dll
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\OO_Samples_026_NumberConverter\OO_Samples_026_NumberConverter\obj\Debug\net8.0\OO_Samples_027_NumberConverter_Base.pdb
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\OO_Samples_026_NumberConverter\OO_Samples_026_NumberConverter\obj\Debug\net8.0\OO_Samples_027_NumberConverter_Base.genruntimeconfig.cache
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\OO_Samples_026_NumberConverter\OO_Samples_026_NumberConverter\obj\Debug\net8.0\ref\OO_Samples_027_NumberConverter_Base.dll
