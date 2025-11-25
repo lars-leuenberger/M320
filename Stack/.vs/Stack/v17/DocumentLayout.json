@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Stack\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E519221A-61E8-404A-AB79-5CBDA50C8756}|Stack.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\stack\\stringstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E519221A-61E8-404A-AB79-5CBDA50C8756}|Stack.csproj|solutionrelative:stringstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E519221A-61E8-404A-AB79-5CBDA50C8756}|Stack.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E519221A-61E8-404A-AB79-5CBDA50C8756}|Stack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StringStack.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Stack\\StringStack.cs",
+              "RelativeDocumentMoniker": "StringStack.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Stack\\StringStack.cs",
+              "RelativeToolTip": "StringStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:23:52.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Stack\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
