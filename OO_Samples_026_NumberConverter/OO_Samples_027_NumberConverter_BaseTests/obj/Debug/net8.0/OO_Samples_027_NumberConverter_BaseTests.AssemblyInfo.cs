@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OO_Samples_027_NumberConverter_BaseTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b261842a262b7c7ee269c5d71d9e770ba5c8624e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4b02e2be550e06219ccfd48a2af05bd04956a6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("OO_Samples_027_NumberConverter_BaseTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OO_Samples_027_NumberConverter_BaseTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

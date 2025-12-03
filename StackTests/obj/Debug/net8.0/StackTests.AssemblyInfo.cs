@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StackTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96ee0ec827fb3b748ddcd2404792175b5ec9923b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4b02e2be550e06219ccfd48a2af05bd04956a6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("StackTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StackTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

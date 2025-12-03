@@ -1,14 +1,16 @@
+using OO_Samples_027_NumberConverter_Base;
 using System;
 
 namespace NumberConverter
 {
-    public class StringConverter
+    public class StringConverter : IStringConverter
     {
         private static string[] _singleDigitFragments = { "_", "ein", "zwei", "drei", "vier", "fünf", "sechs", "sieben", "acht", "neun" };
 
         private static string[] _tenFragments = { "_", "zehn", "zwanzig", "dreissig", "vierzig", "fünfzig", "sechzig", "siebzig", "achzig", "neunzig" };
 
         private static string[] _positionalFragments = { "_", "_", "hundert", "tausend" };
+
 
         /// <summary>
         /// Converts a german numeric string into its numerical value.
@@ -17,7 +19,7 @@ namespace NumberConverter
         /// </summary>
         /// <param name="numericString">String input to be converted.</param>
         /// <returns>Numeric integer representation of string input.</returns>
-        public virtual int ConvertToInt(string numericString)
+        public int ConvertToInt(string numericString)
         {
             int value = 0;
             for (int exponent = _positionalFragments.Length - 1; exponent > 1; exponent--)

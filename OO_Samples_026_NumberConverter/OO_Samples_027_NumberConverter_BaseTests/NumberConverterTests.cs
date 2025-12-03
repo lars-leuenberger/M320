@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NumberConverter;
+using OO_Samples_027_NumberConverter_Base;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,10 +9,11 @@ using System.Threading.Tasks;
 
 namespace NumberConverter.Tests
 {
+    IStringConverterDummy converter = new NumberConverterDummy();
     [TestClass()]
     public class NumberConverterTests
     {
-        NumberConverter converter = new NumberConverter();
+        
         [TestMethod()]
         public void RoundUpTestLow()
         {

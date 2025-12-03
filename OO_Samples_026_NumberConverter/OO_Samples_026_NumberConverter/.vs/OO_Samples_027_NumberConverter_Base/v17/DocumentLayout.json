@@ -3,11 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\OO_Samples_026_NumberConverter\\OO_Samples_026_NumberConverter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{44984513-8FF8-4CF1-8A86-A769E5829188}|..\\OO_Samples_027_NumberConverter_BaseTests\\OO_Samples_027_NumberConverter_BaseTests.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\oo_samples_026_numberconverter\\oo_samples_027_numberconverter_basetests\\istringconverterdummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{44984513-8FF8-4CF1-8A86-A769E5829188}|..\\OO_Samples_027_NumberConverter_BaseTests\\OO_Samples_027_NumberConverter_BaseTests.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\oo_samples_026_numberconverter\\oo_samples_027_numberconverter_basetests\\numberconvertertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9013AE-F141-0D07-EAF4-1C89FFA2A994}|OO_Samples_027_NumberConverter_Base.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\oo_samples_026_numberconverter\\oo_samples_026_numberconverter\\istringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9013AE-F141-0D07-EAF4-1C89FFA2A994}|OO_Samples_027_NumberConverter_Base.csproj|solutionrelative:istringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44984513-8FF8-4CF1-8A86-A769E5829188}|..\\OO_Samples_027_NumberConverter_BaseTests\\OO_Samples_027_NumberConverter_BaseTests.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\oo_samples_026_numberconverter\\oo_samples_027_numberconverter_basetests\\numberconverterdummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD9013AE-F141-0D07-EAF4-1C89FFA2A994}|OO_Samples_027_NumberConverter_Base.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\oo_samples_026_numberconverter\\oo_samples_026_numberconverter\\numberconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD9013AE-F141-0D07-EAF4-1C89FFA2A994}|OO_Samples_027_NumberConverter_Base.csproj|solutionrelative:numberconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9013AE-F141-0D07-EAF4-1C89FFA2A994}|OO_Samples_027_NumberConverter_Base.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\oo_samples_026_numberconverter\\oo_samples_026_numberconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9013AE-F141-0D07-EAF4-1C89FFA2A994}|OO_Samples_027_NumberConverter_Base.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD9013AE-F141-0D07-EAF4-1C89FFA2A994}|OO_Samples_027_NumberConverter_Base.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\oo_samples_026_numberconverter\\oo_samples_026_numberconverter\\stringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,43 +35,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStringConverterDummy.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\OO_Samples_026_NumberConverter\\OO_Samples_027_NumberConverter_BaseTests\\IStringConverterDummy.cs",
+              "RelativeDocumentMoniker": "..\\OO_Samples_027_NumberConverter_BaseTests\\IStringConverterDummy.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\OO_Samples_026_NumberConverter\\OO_Samples_027_NumberConverter_BaseTests\\IStringConverterDummy.cs",
+              "RelativeToolTip": "..\\OO_Samples_027_NumberConverter_BaseTests\\IStringConverterDummy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:20:22.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumberConverterDummy.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\OO_Samples_026_NumberConverter\\OO_Samples_027_NumberConverter_BaseTests\\NumberConverterDummy.cs",
+              "RelativeDocumentMoniker": "..\\OO_Samples_027_NumberConverter_BaseTests\\NumberConverterDummy.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\OO_Samples_026_NumberConverter\\OO_Samples_027_NumberConverter_BaseTests\\NumberConverterDummy.cs",
+              "RelativeToolTip": "..\\OO_Samples_027_NumberConverter_BaseTests\\NumberConverterDummy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:08:37.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\OO_Samples_026_NumberConverter\\OO_Samples_026_NumberConverter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\OO_Samples_026_NumberConverter\\OO_Samples_026_NumberConverter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:48:16.494Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IStringConverter.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\OO_Samples_026_NumberConverter\\OO_Samples_026_NumberConverter\\IStringConverter.cs",
+              "RelativeDocumentMoniker": "IStringConverter.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\OO_Samples_026_NumberConverter\\OO_Samples_026_NumberConverter\\IStringConverter.cs",
+              "RelativeToolTip": "IStringConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:31:46.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "StringConverter.cs",
               "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\OO_Samples_026_NumberConverter\\OO_Samples_026_NumberConverter\\StringConverter.cs",
               "RelativeDocumentMoniker": "StringConverter.cs",
               "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\OO_Samples_026_NumberConverter\\OO_Samples_026_NumberConverter\\StringConverter.cs",
               "RelativeToolTip": "StringConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T12:16:40.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T12:16:40.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "NumberConverter.cs",
               "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\OO_Samples_026_NumberConverter\\OO_Samples_026_NumberConverter\\NumberConverter.cs",
               "RelativeDocumentMoniker": "NumberConverter.cs",
               "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\OO_Samples_026_NumberConverter\\OO_Samples_026_NumberConverter\\NumberConverter.cs",
               "RelativeToolTip": "NumberConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T12:07:36.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T12:07:36.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NumberConverterTests.cs",
               "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\OO_Samples_026_NumberConverter\\OO_Samples_027_NumberConverter_BaseTests\\NumberConverterTests.cs",
               "RelativeDocumentMoniker": "..\\OO_Samples_027_NumberConverter_BaseTests\\NumberConverterTests.cs",
               "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\OO_Samples_026_NumberConverter\\OO_Samples_027_NumberConverter_BaseTests\\NumberConverterTests.cs",
               "RelativeToolTip": "..\\OO_Samples_027_NumberConverter_BaseTests\\NumberConverterTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T12:07:48.549Z",
               "EditorCaption": ""

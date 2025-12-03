@@ -1,14 +1,17 @@
 
+using OO_Samples_027_NumberConverter_Base;
+
 namespace NumberConverter {
     /// <summary>
     /// Zur Verfügung gestellt von Peter Gisler, GIBZ
     /// </summary>
     public class NumberConverter {
 
-        StringConverter _stringConverter;
+        IStringConverter _stringConverter;
 
-        public NumberConverter() {
-            _stringConverter = new StringConverter();
+
+        public NumberConverter(IStringConverter stringConverter) {
+            _stringConverter = stringConverter;
         }
 
         public int RoundUp(float value) {
@@ -41,6 +44,5 @@ namespace NumberConverter {
             double roundedValue = (double)Math.Round(value, precisionExponent);
             return (int)roundedValue;
         }
-
     }
 }
