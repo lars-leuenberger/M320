@@ -1,0 +1,14 @@
+C:\Users\Marcel.Weber\source\repos\2025-M320-INA4c\2025-INA2c\Vorbereitungsprüfung M320 - Weber Marcel\B1\bin\Debug\net8.0\B1.exe
+C:\Users\Marcel.Weber\source\repos\2025-M320-INA4c\2025-INA2c\Vorbereitungsprüfung M320 - Weber Marcel\B1\bin\Debug\net8.0\B1.deps.json
+C:\Users\Marcel.Weber\source\repos\2025-M320-INA4c\2025-INA2c\Vorbereitungsprüfung M320 - Weber Marcel\B1\bin\Debug\net8.0\B1.runtimeconfig.json
+C:\Users\Marcel.Weber\source\repos\2025-M320-INA4c\2025-INA2c\Vorbereitungsprüfung M320 - Weber Marcel\B1\bin\Debug\net8.0\B1.dll
+C:\Users\Marcel.Weber\source\repos\2025-M320-INA4c\2025-INA2c\Vorbereitungsprüfung M320 - Weber Marcel\B1\bin\Debug\net8.0\B1.pdb
+C:\Users\Marcel.Weber\source\repos\2025-M320-INA4c\2025-INA2c\Vorbereitungsprüfung M320 - Weber Marcel\B1\obj\Debug\net8.0\B1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcel.Weber\source\repos\2025-M320-INA4c\2025-INA2c\Vorbereitungsprüfung M320 - Weber Marcel\B1\obj\Debug\net8.0\B1.AssemblyInfoInputs.cache
+C:\Users\Marcel.Weber\source\repos\2025-M320-INA4c\2025-INA2c\Vorbereitungsprüfung M320 - Weber Marcel\B1\obj\Debug\net8.0\B1.AssemblyInfo.cs
+C:\Users\Marcel.Weber\source\repos\2025-M320-INA4c\2025-INA2c\Vorbereitungsprüfung M320 - Weber Marcel\B1\obj\Debug\net8.0\B1.csproj.CoreCompileInputs.cache
+C:\Users\Marcel.Weber\source\repos\2025-M320-INA4c\2025-INA2c\Vorbereitungsprüfung M320 - Weber Marcel\B1\obj\Debug\net8.0\B1.dll
+C:\Users\Marcel.Weber\source\repos\2025-M320-INA4c\2025-INA2c\Vorbereitungsprüfung M320 - Weber Marcel\B1\obj\Debug\net8.0\refint\B1.dll
+C:\Users\Marcel.Weber\source\repos\2025-M320-INA4c\2025-INA2c\Vorbereitungsprüfung M320 - Weber Marcel\B1\obj\Debug\net8.0\B1.pdb
+C:\Users\Marcel.Weber\source\repos\2025-M320-INA4c\2025-INA2c\Vorbereitungsprüfung M320 - Weber Marcel\B1\obj\Debug\net8.0\B1.genruntimeconfig.cache
+C:\Users\Marcel.Weber\source\repos\2025-M320-INA4c\2025-INA2c\Vorbereitungsprüfung M320 - Weber Marcel\B1\obj\Debug\net8.0\ref\B1.dll

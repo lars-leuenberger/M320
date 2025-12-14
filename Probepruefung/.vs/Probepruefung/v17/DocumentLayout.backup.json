@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Probepruefung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87FE0F33-57AA-460A-B2F7-E2D5953C06DC}|..\\ProbepruefungTests\\ProbepruefungTests.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\probepruefungtests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CE6B04-9C31-4395-8E60-6307C71798B2}|Probepruefung.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\probepruefung\\motorrad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CE6B04-9C31-4395-8E60-6307C71798B2}|Probepruefung.csproj|solutionrelative:motorrad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CE6B04-9C31-4395-8E60-6307C71798B2}|Probepruefung.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\probepruefung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CE6B04-9C31-4395-8E60-6307C71798B2}|Probepruefung.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CE6B04-9C31-4395-8E60-6307C71798B2}|Probepruefung.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\probepruefung\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CE6B04-9C31-4395-8E60-6307C71798B2}|Probepruefung.csproj|solutionrelative:fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CE6B04-9C31-4395-8E60-6307C71798B2}|Probepruefung.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\probepruefung\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CE6B04-9C31-4395-8E60-6307C71798B2}|Probepruefung.csproj|solutionrelative:auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CE6B04-9C31-4395-8E60-6307C71798B2}|Probepruefung.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\probepruefung\\transportmittel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CE6B04-9C31-4395-8E60-6307C71798B2}|Probepruefung.csproj|solutionrelative:transportmittel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CE6B04-9C31-4395-8E60-6307C71798B2}|Probepruefung.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\probepruefung\\ibuchbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CE6B04-9C31-4395-8E60-6307C71798B2}|Probepruefung.csproj|solutionrelative:ibuchbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\ProbepruefungTests\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\ProbepruefungTests\\Test1.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\ProbepruefungTests\\Test1.cs",
+              "RelativeToolTip": "..\\ProbepruefungTests\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:05:25.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBuchbar.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Probepruefung\\IBuchbar.cs",
+              "RelativeDocumentMoniker": "IBuchbar.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Probepruefung\\IBuchbar.cs",
+              "RelativeToolTip": "IBuchbar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:51:57.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transportmittel.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Probepruefung\\Transportmittel.cs",
+              "RelativeDocumentMoniker": "Transportmittel.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Probepruefung\\Transportmittel.cs",
+              "RelativeToolTip": "Transportmittel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:46:41.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Motorrad.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Probepruefung\\Motorrad.cs",
+              "RelativeDocumentMoniker": "Motorrad.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Probepruefung\\Motorrad.cs",
+              "RelativeToolTip": "Motorrad.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:29:02.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Probepruefung\\Auto.cs",
+              "RelativeDocumentMoniker": "Auto.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Probepruefung\\Auto.cs",
+              "RelativeToolTip": "Auto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:22:46.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fahrzeug.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Probepruefung\\Fahrzeug.cs",
+              "RelativeDocumentMoniker": "Fahrzeug.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Probepruefung\\Fahrzeug.cs",
+              "RelativeToolTip": "Fahrzeug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:19:27.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Probepruefung\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Probepruefung\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:28:50.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
