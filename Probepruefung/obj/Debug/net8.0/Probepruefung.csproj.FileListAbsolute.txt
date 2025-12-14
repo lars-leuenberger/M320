@@ -1,0 +1,17 @@
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\bin\Debug\net8.0\Probepruefung.exe
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\bin\Debug\net8.0\Probepruefung.deps.json
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\bin\Debug\net8.0\Probepruefung.runtimeconfig.json
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\bin\Debug\net8.0\Probepruefung.dll
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\bin\Debug\net8.0\Probepruefung.pdb
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\obj\Debug\net8.0\Probepruefung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\obj\Debug\net8.0\Probepruefung.AssemblyInfoInputs.cache
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\obj\Debug\net8.0\Probepruefung.AssemblyInfo.cs
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\obj\Debug\net8.0\Probepruefung.csproj.CoreCompileInputs.cache
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\obj\Debug\net8.0\Probepruefung.sourcelink.json
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\obj\Debug\net8.0\Probepruefung.dll
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\obj\Debug\net8.0\refint\Probepruefung.dll
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\obj\Debug\net8.0\Probepruefung.pdb
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\obj\Debug\net8.0\Probepruefung.genruntimeconfig.cache
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\obj\Debug\net8.0\ref\Probepruefung.dll
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\bin\Debug\net8.0\Probepruefung.xml
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Probepruefung\obj\Debug\net8.0\Probepruefung.xml
