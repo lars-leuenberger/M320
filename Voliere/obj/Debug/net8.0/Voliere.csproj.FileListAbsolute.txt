@@ -1,0 +1,17 @@
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\bin\Debug\net8.0\Voliere.exe
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\bin\Debug\net8.0\Voliere.deps.json
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\bin\Debug\net8.0\Voliere.runtimeconfig.json
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\bin\Debug\net8.0\Voliere.dll
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\bin\Debug\net8.0\Voliere.pdb
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\bin\Debug\net8.0\Voliere.xml
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\obj\Debug\net8.0\Voliere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\obj\Debug\net8.0\Voliere.AssemblyInfoInputs.cache
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\obj\Debug\net8.0\Voliere.AssemblyInfo.cs
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\obj\Debug\net8.0\Voliere.csproj.CoreCompileInputs.cache
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\obj\Debug\net8.0\Voliere.sourcelink.json
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\obj\Debug\net8.0\Voliere.dll
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\obj\Debug\net8.0\refint\Voliere.dll
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\obj\Debug\net8.0\Voliere.xml
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\obj\Debug\net8.0\Voliere.pdb
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\obj\Debug\net8.0\Voliere.genruntimeconfig.cache
+C:\Users\leuen\OneDrive - Kt. SG BLD\Dokumente\03_Berufsschule\Modul 320\Voliere\obj\Debug\net8.0\ref\Voliere.dll

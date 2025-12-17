@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7C3700-C15E-4AA7-A3FA-3C4BF55741BC}|..\\VoliereTests\\VoliereTests.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\volieretests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\voliere\\maximaleflughoeheueberschrittenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|solutionrelative:maximaleflughoeheueberschrittenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\voliere\\voliere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|solutionrelative:voliere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\voliere\\nachtigall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|solutionrelative:nachtigall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\voliere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\voliere\\iflugfaehig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|solutionrelative:iflugfaehig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\voliere\\huhn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|solutionrelative:huhn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\voliere\\vogel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|solutionrelative:vogel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\voliere\\hahn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|solutionrelative:hahn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\voliere\\strauss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|solutionrelative:strauss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\voliere\\schwan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|solutionrelative:schwan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\voliere\\pinguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|solutionrelative:pinguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\voliere\\gummiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|solutionrelative:gummiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\voliere\\henne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|solutionrelative:henne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|c:\\users\\leuen\\onedrive - kt. sg bld\\dokumente\\03_berufsschule\\modul 320\\voliere\\ischwimmfaehig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D447A57D-FD54-49A3-92F6-8281E3C42B21}|Voliere.csproj|solutionrelative:ischwimmfaehig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\VoliereTests\\Tests.cs",
+              "RelativeDocumentMoniker": "..\\VoliereTests\\Tests.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\VoliereTests\\Tests.cs",
+              "RelativeToolTip": "..\\VoliereTests\\Tests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:55:50.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaximaleFlugHoeheUeberschrittenException.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\MaximaleFlugHoeheUeberschrittenException.cs",
+              "RelativeDocumentMoniker": "MaximaleFlugHoeheUeberschrittenException.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\MaximaleFlugHoeheUeberschrittenException.cs",
+              "RelativeToolTip": "MaximaleFlugHoeheUeberschrittenException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:46:55.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:23:56.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Voliere.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Voliere.cs",
+              "RelativeDocumentMoniker": "Voliere.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Voliere.cs",
+              "RelativeToolTip": "Voliere.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAtwDoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:30:13.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vogel.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Vogel.cs",
+              "RelativeDocumentMoniker": "Vogel.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Vogel.cs",
+              "RelativeToolTip": "Vogel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:31:46.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pinguin.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Pinguin.cs",
+              "RelativeDocumentMoniker": "Pinguin.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Pinguin.cs",
+              "RelativeToolTip": "Pinguin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:27:57.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Strauss.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Strauss.cs",
+              "RelativeDocumentMoniker": "Strauss.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Strauss.cs",
+              "RelativeToolTip": "Strauss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:26:27.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Schwan.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Schwan.cs",
+              "RelativeDocumentMoniker": "Schwan.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Schwan.cs",
+              "RelativeToolTip": "Schwan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:23:35.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Henne.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Henne.cs",
+              "RelativeDocumentMoniker": "Henne.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Henne.cs",
+              "RelativeToolTip": "Henne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:20:23.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hahn.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Hahn.cs",
+              "RelativeDocumentMoniker": "Hahn.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Hahn.cs",
+              "RelativeToolTip": "Hahn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:18:01.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Huhn.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Huhn.cs",
+              "RelativeDocumentMoniker": "Huhn.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Huhn.cs",
+              "RelativeToolTip": "Huhn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:14:35.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nachtigall.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Nachtigall.cs",
+              "RelativeDocumentMoniker": "Nachtigall.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\Nachtigall.cs",
+              "RelativeToolTip": "Nachtigall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:56:01.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GummiEnte.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\GummiEnte.cs",
+              "RelativeDocumentMoniker": "GummiEnte.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\GummiEnte.cs",
+              "RelativeToolTip": "GummiEnte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:27:09.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISchwimmFaehig.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\ISchwimmFaehig.cs",
+              "RelativeDocumentMoniker": "ISchwimmFaehig.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\ISchwimmFaehig.cs",
+              "RelativeToolTip": "ISchwimmFaehig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:24:19.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFlugFaehig.cs",
+              "DocumentMoniker": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\IFlugFaehig.cs",
+              "RelativeDocumentMoniker": "IFlugFaehig.cs",
+              "ToolTip": "C:\\Users\\leuen\\OneDrive - Kt. SG BLD\\Dokumente\\03_Berufsschule\\Modul 320\\Voliere\\IFlugFaehig.cs",
+              "RelativeToolTip": "IFlugFaehig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:23:58.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
